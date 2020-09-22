@@ -1,0 +1,8 @@
+frmMain = 24, 103, 728, 485, , 22, 22, 726, 404, C
+modRegEnum = 44, 44, 748, 426, 
+modCheck = 176, 176, 878, 558, 
+SaveOpenFileNameComDlg = 88, 88, 794, 470, 
+DrawGradient_Module = 110, 110, 632, 483, 
+Function_Module = 176, 176, 698, 549, 
+frmFileInfo = 0, 0, 554, 376, , 110, 110, 632, 483, C
+frmcredits = 0, 0, 522, 373, , 176, 176, 698, 549, C
